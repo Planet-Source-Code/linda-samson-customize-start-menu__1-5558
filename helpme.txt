@@ -1,0 +1,20 @@
+hi,
+
+do u know how to read the memory contents.
+e.g.  pokeb, pokew in basic.
+
+i dont know the corresponding function in
+vb6.0 so if u know, please let me know.
+
+i have a program that would read the desktop
+without using image controls so it would be
+faster to transfer over the net.
+
+and an antivirus program which i am porting
+from DOS.  
+
+i would be posting these when finished.
+
+thanks for your help...
+
+email me at:  linda.69@mailcity.com
